@@ -2,7 +2,7 @@
 # HTML Project
 ***
 A portfolio website which is based on HTML only. In this project I have used different tags and attributes which Primarly used in HTML.
-[Website link](https://adarsh00712.github.io/HTML-Project/)
+[Website link](https://adarsh00712.github.io/Html-Project/)
 ## Task
 ***
 Creating a portfolio webpage by using HTML only.
